@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/InputForm/static/css/main.71b546f7.chunk.css",
+    "main.js": "/InputForm/static/js/main.59a52f77.chunk.js",
+    "main.js.map": "/InputForm/static/js/main.59a52f77.chunk.js.map",
+    "runtime-main.js": "/InputForm/static/js/runtime-main.95bad68f.js",
+    "runtime-main.js.map": "/InputForm/static/js/runtime-main.95bad68f.js.map",
+    "static/js/2.dfa9181c.chunk.js": "/InputForm/static/js/2.dfa9181c.chunk.js",
+    "static/js/2.dfa9181c.chunk.js.map": "/InputForm/static/js/2.dfa9181c.chunk.js.map",
+    "index.html": "/InputForm/index.html",
+    "static/css/main.71b546f7.chunk.css.map": "/InputForm/static/css/main.71b546f7.chunk.css.map",
+    "static/js/2.dfa9181c.chunk.js.LICENSE.txt": "/InputForm/static/js/2.dfa9181c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95bad68f.js",
+    "static/js/2.dfa9181c.chunk.js",
+    "static/css/main.71b546f7.chunk.css",
+    "static/js/main.59a52f77.chunk.js"
+  ]
+}
